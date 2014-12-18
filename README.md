@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-this is a short description
+This is my updated version of the readme.
+
+Katie
